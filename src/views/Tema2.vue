@@ -308,7 +308,7 @@
           span Descargar
           i.fas.fa-file-download
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center
       .col-lg-10
         p.my-5 Teniendo en cuenta que se ha venido trabajando sobre la estructura de los formatos, se sugiere explorar la siguiente información en donde se podrá aprender el diligenciamiento del certificado de defunción. 
         .row.justify-content-start.align-items-center     
@@ -334,51 +334,51 @@
             figure
               img.img-fluid(src='@/assets/curso/tema2/img36.svg' style= 'height: 164px')
         
-  .container.BGIMG04.p-4.p-md-5
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6.mb-4
-        p Para el proceso de registro de defunción, la persona que solicita el registro debe presentar su documento de identificación, además de mínimo una prueba del hecho. En caso de que el fallecimiento se produzca por muerte natural, se puede acreditar con certificado expedido por el médico tratante o quien atendió a la persona fallecida en su última enfermedad o por un médico forense.
-        p Si no existe ninguno de estos dos conceptos, se puede certificar la muerte por parte de un médico de sanidad o en último caso cualquier médico que desempeñe un cargo oficial relacionado con su profesión en el lugar o sitio de ocurrencia o un profesional médico. Solo en caso de no existir médicos en la localidad, se podrá definir el fallecimiento mediante declaración de dos testigos, que se debe presentar dentro de los dos días hábiles siguientes al fallecimiento.
-      .col-lg-1
-      .col-lg-5.mb-5
-        img(src='@/assets/curso/tema2/img38.png')
-      .col-lg-6
-        img(src='@/assets/curso/tema2/img39.png')
-      .col-lg-6
-        ol.lista-img03.px-4.mb-5
-          li 
-            h4 Legalmente, la inscripción de una muerte para el registro civil, la puede solicitar: 
-        ol.lista-ol--cuadro
-          li 
-            .lista-ol--cuadro__vineta
-                span a
-            | La o el cónyuge sobreviviente, o los parientes más próximos del occiso.
-          li 
-            .lista-ol--cuadro__vineta
-                span b 
-            | Las personas que habiten en la casa en que ocurrió́ el fallecimiento.
-          li 
-            .lista-ol--cuadro__vineta
-                span c
-            | El profesional tratante médico que haya asistido al fallecido en su última enfermedad.
-          li 
-            .lista-ol--cuadro__vineta
-                span d
-            | El servicio funerario que atiende la sepultura del fallecido. 
-          li 
-            .lista-ol--cuadro__vineta
-                span e 
-            | En caso de presentarse la defunción en estado de acuartelamiento, o en un convento, hospital, clínica, asilo, cárcel o establecimiento carcelario público o privado, el deber de denunciar también compromete al director o administrador del establecimiento. 
-          li 
-            .lista-ol--cuadro__vineta
-                span f 
-            | En el evento de encontrarse un cadáver de persona desconocida o que no sea reclamado, es deber de la autoridad policial el realizar el denuncio correspondiente. 
-          li 
-            .lista-ol--cuadro__vineta
-                span g
-            | Las personas que tengan interés en denunciar el fallecimiento de cualquier persona, lo puede hacer, siempre y cuando presenten los documentos que soportan de manera pertinentes el caso.
+    .bg_img48_t2.mb-5
+      .row.justify-content-center.align-items-center.mt-4
+        .col-lg-6.mb-4.mt-5
+          p Para el proceso de registro de defunción, la persona que solicita el registro debe presentar su documento de identificación, además de mínimo una prueba del hecho. En caso de que el fallecimiento se produzca por muerte natural, se puede acreditar con certificado expedido por el médico tratante o quien atendió a la persona fallecida en su última enfermedad o por un médico forense.
+          p Si no existe ninguno de estos dos conceptos, se puede certificar la muerte por parte de un médico de sanidad o en último caso cualquier médico que desempeñe un cargo oficial relacionado con su profesión en el lugar o sitio de ocurrencia o un profesional médico. Solo en caso de no existir médicos en la localidad, se podrá definir el fallecimiento mediante declaración de dos testigos, que se debe presentar dentro de los dos días hábiles siguientes al fallecimiento.
+        .col-lg-5.mb-5.mt-5
+          figure
+            img.ms-5(src='@/assets/curso/tema2/img38.png' style= "width: 445px")
+        .col-lg-6
+          figure
+            img.ms-5(src='@/assets/curso/tema2/img39.png' style= "width: 545px")
+        .col-lg-6
+          ol.lista-img03.px-4.mb-4
+            li 
+              h4 Legalmente, la inscripción de una muerte para el registro civil, la puede solicitar: 
+          ol.lista-ol--cuadro
+            li 
+              .lista-ol--cuadro__vineta
+                  span a
+              | La o el cónyuge sobreviviente, o los parientes más próximos del occiso.
+            li 
+              .lista-ol--cuadro__vineta
+                  span b 
+              | Las personas que habiten en la casa en que ocurrió́ el fallecimiento.
+            li 
+              .lista-ol--cuadro__vineta
+                  span c
+              | El profesional tratante médico que haya asistido al fallecido en su última enfermedad.
+            li 
+              .lista-ol--cuadro__vineta
+                  span d
+              | El servicio funerario que atiende la sepultura del fallecido. 
+            li 
+              .lista-ol--cuadro__vineta
+                  span e 
+              | En caso de presentarse la defunción en estado de acuartelamiento, o en un convento, hospital, clínica, asilo, cárcel o establecimiento carcelario público o privado, el deber de denunciar también compromete al director o administrador del establecimiento. 
+            li 
+              .lista-ol--cuadro__vineta
+                  span f 
+              | En el evento de encontrarse un cadáver de persona desconocida o que no sea reclamado, es deber de la autoridad policial el realizar el denuncio correspondiente. 
+            li 
+              .lista-ol--cuadro__vineta
+                  span g
+              | Las personas que tengan interés en denunciar el fallecimiento de cualquier persona, lo puede hacer, siempre y cuando presenten los documentos que soportan de manera pertinentes el caso.
 
-  .container.BG08.p-4.p-md-5
     .BG06
       SlyderA
         .row.justify-content-center.align-items-center.mb-5  
@@ -404,17 +404,228 @@
             img(src='@/assets/curso/tema2/img43.svg')
         .row.justify-content-center.align-items-center.mb-5  
           .col-lg-2
-            img(src='@/assets/curso/tema2/img44.svg')
+            img.pt-4(src='@/assets/curso/tema2/img44.svg')
           .col-lg-8
             p El formato de registro de certificado de defunción consta de dos componentes principales, cuyos objetivos son diferentes: 
-            ol.lista-img04.px-4.mb-5
+            ol.lista-img04.px-4
               li 
                 | El certificado de defunción como antecedente y requisito para la inscripción al registro civil.
               li 
                 | Certificado de defunción como registro de información sobre la mortalidad en estadísticas vitales.
   
-    
+    .bg_img49_t2
+      .row.justify-content-center.align-items-center.mt-5
+        .col-lg-6.mb-4
+          ol.lista-img03.px-4
+            li 
+              h4 Recomendaciones e instrucciones generales
+          p.mt-4 Para el diligenciamiento del certificado de defunción, es importante tener en cuenta las siguientes recomendaciones:
+          ol.lista-img01.px-4
+            li 
+              p.mb-3 Legalmente el certificado de defunción y antecedente para el registro civil, es requisito para la inscripción en el registro civil y para el trámite de la expedición de la licencia de inhumación.
+            li
+              p.mb-3 Los datos que se registran en el formulario, solicitados por el DANE, son estrictamente confidenciales, y están protegidos bajo reserva estadística por la Ley 79 de 1993, Artículo 5°.
+            li 
+              p.mb-3 La firma del profesional que diligencia  el certificado garantiza la validez del documento.
+            li
+              p.mb-3 Se recomienda diligenciar el certificado con letra de imprenta, clara y legible, sin borrones ni enmendaduras.
+            li 
+              p.mb-3 Solo se debe marcar con una equis (x) la opción seleccionada para cada pregunta.
+            li
+              p.mb-3 Antes de realizar el registro, se deben revisar las fuentes de información y realizar las indagaciones necesarias para adquirir la información completa y veraz, pues la calidad del dato es importantes para el Sistema Nacional de Registro Civil.
+        .col-lg-6
+          figure
+            img.me-5(src='@/assets/curso/tema2/img46.png' style= "width: 623px")
+        .col-lg-6.mb-5
+          figure
+            img.ms-4(src='@/assets/curso/tema2/img47.png' style= "width: 595px")
+        .col-lg-6.mb-5
+          ol.lista-img01.px-4
+            li 
+              p.mb-3 Se debe verificar antes de escribir todos los datos personales solicitados, tales como nombres completos, lugar donde ocurrió la defunción,  edad y  número de identificación del fallecido, y que estos datos correspondan fielmente a los documento de identificación. Estos datos deben ser convalidados; esto con el fin de evitar errores en el trámite, y contratiempos en la notaría o registraduría.
+            li
+              p.mb-3 El certificado debe ser llenado en su totalidad, no se deben dejar espacios en blanco, de lo contrario la Oficina de Registro Civil no lo acepta como válido, igualmente esto evita posibles fraudes y disminuye el subregistro de información.
+            li 
+              p.mb-3 Cuando un formato de certificado se invalide por borrones, enmendaduras o mal diligenciamiento, este debe ser anulado y no destruido. Este formulario anulado, debe ser remitido posteriormente a la Dirección seccional o local de salud.
+            li
+              p.mb-3 El certificado se haya numerado de manera individual, única y secuencial; por tal razón, no se  aceptan certificados diligenciados en fotocopias. Esta numeración individual, garantiza la calidad, brinda confiabilidad y evita la presencia de duplicidades.
+            li 
+              p.mb-5 No se deben utilizar abreviaturas o siglas en ninguno de los espacios del certificado.  
 
+    p.mb-4 El formato de registro de certificado de defunción, consta de dos componentes principales, cuyos objetivos son diferentes. El certificado de defunción como antecedente y requisito para la inscripción en el registro civil y el certificado de defunción como registro de información sobre la mortalidad en estadísticas vitales.       
+    p.mb-4 Ahora, se explicará cada uno: el certificado de defunción como antecedente y requisito para la inscripción al registro civil, se estructura de la siguiente manera: 
+    ol.lista-img03.px-4.mb-4
+          li 
+            h4 Certificado de defunción como registro de información sobre la mortalidad en estadísticas vitales.
+    p.mb-4 El contenido del formato del certificado de defunción está dividido en seis partes, por lo tanto le invitamos a explorar el siguiente recurso, donde encontrará cómo se diligencia y que partes lo construyen:
+
+    .tarjeta-color.BGIMG02.p-4.mb-5
+      SlyderA(indicadores="derecha")
+        .row.justifiy-content-center.align-items-center 
+          .col-md-5.mb-4.mb-md-0
+            figure.flex-center
+             img(src='@/assets/curso/tema2/img50.png', alt='Texto que describa la imagen')
+             a.boton.color-acento-botones.mt-5(href="https://drive.google.com/file/d/10wDNGKNxDEkP0OP5N5PBdwcZSVmTIOS2/view?usp=sharing" target="_blank")
+              span Descargar
+              i.fas.fa-file-download       
+          .col-md-7
+            figure
+              img.mb-5(src='@/assets/curso/tema2/img51.png', alt='Texto que describa la imagen')
+
+        .row.justifiy-content-center.align-items-center 
+          .col-md-5.mb-4.mb-md-0
+            figure.flex-center
+             img(src='@/assets/curso/tema2/img52.png', alt='Texto que describa la imagen')
+             a.boton.color-acento-botones.mt-5(href="https://drive.google.com/file/d/10wDNGKNxDEkP0OP5N5PBdwcZSVmTIOS2/view?usp=sharing" target="_blank")
+              span Descargar
+              i.fas.fa-file-download       
+          .col-md-7
+            figure
+              img.mb-5(src='@/assets/curso/tema2/img53.png', alt='Texto que describa la imagen')
+        
+        .row.justifiy-content-center.align-items-center 
+          .col-md-5.mb-4.mb-md-0
+            figure.flex-center
+             img(src='@/assets/curso/tema2/img54.png', alt='Texto que describa la imagen')
+             a.boton.color-acento-botones.mt-5(href="https://drive.google.com/file/d/10wDNGKNxDEkP0OP5N5PBdwcZSVmTIOS2/view?usp=sharing" target="_blank")
+              span Descargar
+              i.fas.fa-file-download       
+          .col-md-7
+            figure
+              img.mb-5(src='@/assets/curso/tema2/img55.png', alt='Texto que describa la imagen') 
+        .row.justifiy-content-center.align-items-center 
+          .col-md-5.mb-4.mb-md-0
+            figure.flex-center
+             img(src='@/assets/curso/tema2/img54.png', alt='Texto que describa la imagen')
+             a.boton.color-acento-botones.mt-5(href="https://drive.google.com/file/d/10wDNGKNxDEkP0OP5N5PBdwcZSVmTIOS2/view?usp=sharing" target="_blank")
+              span Descargar
+              i.fas.fa-file-download       
+          .col-md-7
+            figure
+              img.mb-5(src='@/assets/curso/tema2/img56.png', alt='Texto que describa la imagen') 
+        .row.justifiy-content-center.align-items-center 
+          .col-md-5.mb-4.mb-md-0
+            figure.flex-center
+             img(src='@/assets/curso/tema2/img54.png', alt='Texto que describa la imagen')
+             a.boton.color-acento-botones.mt-5(href="https://drive.google.com/file/d/10wDNGKNxDEkP0OP5N5PBdwcZSVmTIOS2/view?usp=sharing" target="_blank")
+              span Descargar
+              i.fas.fa-file-download       
+          .col-md-7
+            figure
+              img.mb-5(src='@/assets/curso/tema2/img57.png', alt='Texto que describa la imagen')        
+        .row.justifiy-content-center.align-items-center 
+          .col-md-5.mb-4.mb-md-0
+            figure.flex-center
+             img(src='@/assets/curso/tema2/img58.png', alt='Texto que describa la imagen')
+             a.boton.color-acento-botones.mt-5(href="https://drive.google.com/file/d/10wDNGKNxDEkP0OP5N5PBdwcZSVmTIOS2/view?usp=sharing" target="_blank")
+              span Descargar
+              i.fas.fa-file-download       
+          .col-md-7
+            figure
+              img.mb-5(src='@/assets/curso/tema2/img59.png', alt='Texto que describa la imagen')
+        .row.justifiy-content-center.align-items-center 
+          .col-md-5.mb-4.mb-md-0
+            figure.flex-center
+             img(src='@/assets/curso/tema2/img58.png', alt='Texto que describa la imagen')
+             a.boton.color-acento-botones.mt-5(href="https://drive.google.com/file/d/10wDNGKNxDEkP0OP5N5PBdwcZSVmTIOS2/view?usp=sharing" target="_blank")
+              span Descargar
+              i.fas.fa-file-download       
+          .col-md-7
+            figure
+              img.mb-5(src='@/assets/curso/tema2/img60.png', alt='Texto que describa la imagen')
+
+    p.mb-4 Por medio del siguiente recurso se podrá visualizar y ver la funcionabilidad del certificado de defunción como un registro de información sobre la mortalidad en estadísticas vitales. Luego de terminar de explorar este recurso se invita a seguir conociendo más del proceso para certificar una defunción. 
+
+    .tarjeta.BGIMG05.p-5.mb-5
+      PasosB.color-acento-contenido
+        .row.justify-content-around.align-items-center
+          .col-md-7.mb-4.mb-md-0
+            ol.lista-img01.px-4.ms-3
+              li 
+                p.mb-3 <b>Número de certificado de defunción:</b> el certificado se enumera de manera individual, única y secuencial; para efecto de garantizar la calidad, brindar confiabilidad y evitar duplicidades, por tal razón, no se  aceptan certificados diligenciados en fotocopias.
+              li
+                p.mb-3 <b>Lugar donde ocurrió la defunción:</b> se debe diligenciar el departamento y municipio. Para el caso de distritos capitales, equivale un solo nombre en los dos ítems, ejemplo Distrito Capital de Bogotá.
+              li 
+                p.mb-3 <b>Área donde ocurrió la defunción:</b> seleccionar cabecera municipal, o  centro poblado. En caso de ser centro poblado, definir inspección, corregimiento o caserío o rural disperso.
+              li
+                p.mb-3 <b>Sitio donde ocurrió la Defunción:</b> Definir el sitio exacto de la defunción.
+              li 
+                p.mb-3 <b>Nombre de la Institución de Salud donde ocurrió la Defunción y Código de la IPS:</b> Recordar este espacio debe ser llenado en letra de imprenta, clara y legible, sin borrones ni enmiendas y la codificación para la IPS en números arábigos.
+          .col-md-5
+            figure
+              img.pe-5.mb-5.pb-3(src='@/assets/curso/tema2/img61.png')
+        .row.justify-content-around.align-items-center
+          .col-md-5
+            figure
+              img.ps-5.mb-5(src='@/assets/curso/tema2/img62.png')
+          .col-md-6.mb-4.mb-md-0
+            ol.lista-img01.px-4.ms-3
+              li 
+                p.mb-3 <b>Fecha en que ocurrió la defunción:</b> Diligencie en números arábigos dentro de las respectivas casillas.
+              li
+                p.mb-3 <b>Hora en que ocurrió la defunción:</b> Registre hora y minutos del nacimiento en formato de hora militar. El numeral ¨Sin establecer¨ únicamente es aceptada en casos de muertes violentas o muertes fetales, en las cuales no se puede determinar la hora de fallecimiento.
+              li 
+                p.mb-3 <b>Sexo del fallecido:</b> Diligencia la casilla correspondiente al examen e inspección. La casilla «Indeterminado» debe ser utilizada unicamente para los casos en que, por el estado del cadáver, no es posible determinarlo.
+              li
+                p.mb-3 <b>Apellido(s) y Nombre(s) del fallecido(a),</b> diligenciar Primer Apellido, Segundo Apellido, Primer Nombre, Segundo Nombre. En caso de no tener segundo apellido o segundo nombre, dejar el espacio sin diligenciar. Validar el documento de Identidad. 
+        .row.justify-content-around.align-items-center
+          .col-md-7.mb-4.mb-md-0
+            ol.lista-img01.px-4.ms-3
+              li 
+                p.mb-3 <b>Número de identificación del fallecido</b> (tal como figura en el documento de identidad), diligenciar en números arábigos.
+              li
+                p.mb-3 <b>Fecha de nacimiento del fallecido:</b>  Diligenciar en números arábigos, de acuerdo al registro en los documentos.
+              li 
+                p.mb-3 <b>Estado conyugal del fallecido:</b> Seleccione con una X, sólo  uno de los estados enunciados.
+              li
+                p.mb-3 <b>Edad del fallecido:</b> Seleccione con una X, uno de los siguientes rangos de edad, y frente a la edad registre con exactitud la edad en números arábigos, de acuerdo a los criterios establecidos por rango de edad:
+                ol.lista-img63.lh-2.ms-5
+                  li 
+                    | Menor de una hora (en minutos) (00-59).
+                  li 
+                    | Menor de un día (en horas) (01-23).
+                  li 
+                    | Menor de un mes (en días) (01-29).
+                  li 
+                    | Menor de un año (en meses) (01-11).
+                  li 
+                    | De un año o más (en años cumplidos).
+                  li 
+                    | Edad: _____
+          .col-md-5
+            figure
+              img.pe-5.mb-5.pb-3(src='@/assets/curso/tema2/img61.png')
+        .row.justify-content-around.align-items-center
+          .col-md-5
+            figure
+              img.ps-5.mb-4.px-4(src='@/assets/curso/tema2/img62.png')
+          .col-md-7.mb-4.mb-md-0
+            ol.lista-img01.px-4.ms-3
+              li 
+                p.mb-3 <b>Último año de estudios aprobado por el fallecido:</b> seleccione con una X, el enunciado que corresponda a el mayor de los estudios aprobados por el fallecido, y describa en números arábigos, el Último año o grado aprobado en las casillas correspondientes.
+              li
+                p.mb-3 <b>La ocupación pudo ser causa o estar asociada con la defunción:</b> seleccione con una X uno de los enunciados. Debe tener en cuenta las definiciones establecidas para accidente de trabajo y enfermedad profesional. Registre de manera adicional el último trabajo habitual del fallecido.
+              li 
+                p.mb-3 <b>Seleccionar uno de los enunciados a la pregunta:</b> de acuerdo con la cultura, pueblo o rasgos físicos, el fallecido como se reconocía. En caso de seleccionar el enunciado numerado 1. Indígena, definir a cuál pueblo indígena pertenece.
+              li
+                p.mb-3 <b>Lugar de residencia habitual del fallecido:</b> describir país, departamento, y municipio. Recordar que  para muerte fetal o de menor de un año, se debe escribir el lugar de residencia habitual de la madre. Los espacios deben ser diligenciados en letra de imprenta, clara y legible, sin borrones ni enmiendas.
+              li
+                p.mb-3 <b>Área de residencia habitual del fallecido:</b> para muerte fetal o de menor de un año, se debe escribir el área de residencia habitual de la madre. 
+        .row.justify-content-around.align-items-center
+          .col-md-7.mb-4.mb-md-0
+            ol.lista-img01.px-4.ms-3
+              li 
+                p.mb-3 <b>Régimen de seguridad social en salud del fallecido:</b> para la muerte fetal o de menor de un año, se debe seleccionar el régimen de seguridad social de la madre. Seleccione y marque con una equis (X) en la casilla correspondiente.
+              li
+                p.mb-3 <b>Entidad administradora en salud a la que perteneció el fallecido:</b> seleccione el tipo de administradora y escriba el nombre de esta, según el régimen de seguridad social en salud. Para muerte fetal o de menor de un año, seleccione la entidad administradora a la que pertenece la madre. 
+              li 
+                p.mb-3 <b>Probable manera de muerte:</b> de acuerdo con el análisis de información, especificar si la defunción fue natural o violenta. La casilla “en estudio”, solo se usa cuando en el momento de diligenciar el certificado, no se ha podido establecer la manera de muerte; esta casilla es para uso exclusivo de trámite en Medicina Legal.
+              li
+                p.mb-3 <b>Certificado de defunción expedido por:</b> seleccione el profesional de salud o personal de salud autorizado, o funcionario del registro civil, quien expide el certificado.
+          .col-md-5
+            figure
+              img.pe-5.mb-5.mt-4(src='@/assets/curso/tema2/img61.png')
+      
 </template>
 
 <script>

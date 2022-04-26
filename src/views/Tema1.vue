@@ -19,14 +19,14 @@
               p El siguiente recurso explica de manera detallada qué son los sistemas y subsistemas de registro civil y cuál es la función y desarrollo de las estadísticas vitales, te invitamos a explorarlo.
           p El Registro Civil y el Sistema Estadístico tienen como objetivo recopilar información sobre ciertos acontecimientos que ocurren en el transcurso de la vida de las personas, como son los nacimientos, matrimonios, divorcios, nulidad, adopción, legitimación, reconocimiento y muerte.
 
-    .BGIMG04.p-5.mb-5
+    .BGIMG04
       .row.align-items-center.mb-3
         .col-lg-6.col-md-10.col-10.mb-4
           .row.mb-4
             .col-1.p-0.px-2
-              img.w-50(src='@/assets/curso/tema1/img04.svg')
+              img.img23.mt-5(src='@/assets/curso/tema2/img14.svg')
             .col-11.p-0
-              h4 Dentro de este sistema se identifican dos subsistemas:
+              h4.mt-5 Dentro de este sistema se identifican dos subsistemas:
           p Subsistema de Registro Civil y Subsistema de Estadísticas Vitales. <b>El subsistema de registro civil</b> tiene como meta registrar y almacenar información sobre el reconocimiento de la identidad, así como los derechos y obligaciones jurídicas de cada ciudadano de Colombia.  En este subsistema se registra el acontecimiento de hechos vitales y sus características con fines legales, administrativos y de otra índole.
           p <b>El Subsistema de Estadísticas Vitales</b> tiene el objetivo de evidenciar  un hecho vital, así como narrar y determinar información demográfica. Este se ejecuta mediante un proceso que recolecta sistemáticamente información de los hechos vitales, las características más relevantes de los diversos hechos, para luego recopilar, sistematizar, analizar, validar, evaluar, presentar y publicar los datos. cumplir.
           p En la actualidad, el Sistema de Estadísticas Vitales en Colombia solo involucra registros de nacimientos y defunciones fetales y no fetales. Adicional, otra de los objetivos de las estadísticas vitales es el análisis demográfico, el cual es la base de la consolidación y propuestas para las políticas de desarrollo económico y social. En un contexto internacional este proceso proporciona las bases para la comparación y la evaluación de las diferencias entre países, subregiones y regiones, y con esto el cumplimiento de los objetivos de desarrollo y las metas establecidas .
@@ -34,10 +34,10 @@
           img(src='@/assets/curso/tema1/img05.png')
         .col-lg-6.col-md-10.col-10.p-0
           img(src='@/assets/curso/tema1/img06.png')
-        .col-lg-6.col-md-10.col-10
+        .col-lg-6.col-md-10.col-10.mb-5
           .row.mb-4
             .col-1.p-0.px-2
-              img.w-50(src='@/assets/curso/tema1/img04.svg')
+              img.img23(src='@/assets/curso/tema2/img14.svg')
             .col-11.p-0
               h4 Definición y utilidad de los sistemas y los subsistemas 
           p En Colombia existen normas que reglamentan los procesos de validación, cobertura y calidad del registro de la información relacionada con el registro de estadísticas vitales. 
@@ -52,9 +52,9 @@
     .row
       .col-lg-7.col-md-9.col-12
         p.mb-4 El Sistema de Registro Civil y Estadísticas Vitales está reglamentado por una normativa general y procedimental que orienta y garantiza una ejecución pertinente de las actividades enfocadas al registro y control de calidad respecto a los datos que se suministran en el marco del número de defunciones y nacidos vivos en Colombia. 
-        .row.mb-5
+        .row.mb-4
           .col-1.p-0.px-2
-            img.w-50(src='@/assets/curso/tema1/img04.png')
+            img.w-50(src='@/assets/curso/tema2/img14.svg')
           .col-11.p-0
             h4 Normativa fundamental: 
         LineaTiempoD.color-secundario
@@ -65,9 +65,9 @@
         img(src='@/assets/curso/tema1/img07.png')
     separador
 
-    .row.mb-5
+    .row.mb-4
       .col-1.p-0.px-4
-        img.w-50(src='@/assets/curso/tema1/img04.png')
+        img.w-50(src='@/assets/curso/tema2/img14.svg')
       .col-11.p-0
         h4 Normativa procedimental: 
 
