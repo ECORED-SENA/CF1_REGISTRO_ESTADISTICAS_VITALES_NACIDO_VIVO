@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1334" height="1309" viewBox="0 0 1334 1309">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_47707" data-name="Rectángulo 47707" width="670.817" height="250.717" fill="#efeeeb"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_47707-2" data-name="Rectángulo 47707" width="672" height="328.426" fill="#efeeeb"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_159282" data-name="Grupo 159282" transform="translate(-130 -13075)">
+    <rect id="Rectángulo_47443" data-name="Rectángulo 47443" width="1328" height="1291" transform="translate(136 13077)" fill="#f6f5f4"/>
+    <g id="Grupo_158464" data-name="Grupo 158464" transform="translate(1458.773 13075) rotate(90)" clip-path="url(#clip-path)">
+      <path id="Trazado_231243" data-name="Trazado 231243" d="M670.817,0a130.786,130.786,0,0,1-38.85,18.785c-26.253,7.764-55.849,9.262-79.676,20.709C520.9,54.569,506.307,83.551,498.4,111.241c-7.889,27.7-11.482,56.809-29.326,81.655-36.981,51.546-128.931,69.273-201.833,50.584-48.535-12.45-89.074-37.543-121.761-68.119a342.459,342.459,0,0,1-43.234-49.21C74.142,87.33,53.531,44.579,14.987,11.42A162.029,162.029,0,0,0,0,0Z" fill="#efeeeb"/>
+    </g>
+    <g id="Grupo_158464-2" data-name="Grupo 158464" transform="translate(458.426 13712) rotate(90)" clip-path="url(#clip-path-2)">
+      <path id="Trazado_231243-2" data-name="Trazado 231243" d="M672,328.426a121.413,121.413,0,0,0-38.918-24.608c-26.3-10.171-55.948-12.133-79.817-27.128-31.448-19.747-46.065-57.712-53.985-93.984-7.9-36.29-11.5-74.417-29.378-106.963C432.855,8.221,340.743-15,267.713,9.481,219.092,25.79,178.481,58.66,145.737,98.713a434.85,434.85,0,0,0-43.311,64.462c-28.154,50.853-48.8,106.855-87.413,150.292A175.748,175.748,0,0,1,0,328.426Z" transform="translate(0 0)" fill="#efeeeb"/>
+    </g>
+  </g>
+</svg>
